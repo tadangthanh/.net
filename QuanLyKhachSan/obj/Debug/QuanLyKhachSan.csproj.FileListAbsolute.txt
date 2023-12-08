@@ -1,0 +1,58 @@
+D:\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.HomeScreen.resources
+D:\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.Booking.resources
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.Booking.resources
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.HomeScreen.resources
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.Booking.resources
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.HomeScreen.resources
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\Database1.mdf
+H:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\Database1_log.ldf
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\Database1.mdf
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\Database1_log.ldf
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.Booking.resources
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.HomeScreen.resources
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\Database1.mdf
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\bin\Debug\Database1_log.ldf
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.Statistical.resources
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .Net\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Views.Pay.resources
+G:\Drive của tôi\Lập trình .NET\BaiTapLon .NET\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
